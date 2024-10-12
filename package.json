@@ -1,0 +1,33 @@
+{
+  "name": "arrakis-theme",
+  "displayName": "Arrakis Theme",
+  "description": "Harmonic and flow inducing color scheme which is gentle for your eyes.",
+  "icon": "assets/logo.png",
+  "publisher": "anvell",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.94.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anvell/vscode-arrakis-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "warm",
+    "calm"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arrakis Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arrakis-night-color-theme.json"
+      }
+    ]
+  }
+}
