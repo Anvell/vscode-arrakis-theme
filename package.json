@@ -17,12 +17,18 @@
     "Themes"
   ],
   "keywords": [
+    "light",
     "dark",
     "warm",
     "calm"
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Arrakis Day",
+        "uiTheme": "vs",
+        "path": "./themes/arrakis-day-color-theme.json"
+      },
       {
         "label": "Arrakis Night",
         "uiTheme": "vs-dark",
