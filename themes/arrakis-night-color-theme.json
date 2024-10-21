@@ -154,8 +154,23 @@
       }
     },
     {
-      "name": "entity.name.function.rust",
-      "scope": "entity.name.function.rust,meta.function-call.rust",
+      "name": "rust function operators",
+      "scope": [
+        "keyword.other.rust",
+        "keyword.other.fn.rust",
+        "entity.name.function.macro.rules.rust"
+      ],
+      "settings": {
+        "foreground": "#d17b8d"
+      }
+    },
+    {
+      "name": "rust functions",
+      "scope": [
+        "entity.name.function.rust",
+        "meta.function-call.rust",
+        "entity.name.function.macro.rust"
+      ],
       "settings": {
         "foreground": "#9bd2e0"
       }
@@ -791,7 +806,6 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#d4d4d4"
       }
     },
@@ -799,7 +813,6 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#ecc77c"
       }
     },
