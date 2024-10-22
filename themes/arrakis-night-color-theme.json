@@ -48,6 +48,12 @@
       }
     },
     {
+      "scope": "entity.name.type.lifetime.rust",
+      "settings": {
+        "foreground": "#cbc0b1"
+      }
+    },
+    {
       "name": "keyword.operator.question.rust",
       "scope": "keyword.operator.question.rust",
       "settings": {
@@ -154,10 +160,11 @@
       }
     },
     {
-      "name": "rust function operators",
+      "name": "rust function and type operators",
       "scope": [
         "keyword.other.rust",
         "keyword.other.fn.rust",
+        "keyword.declaration.struct.rust",
         "entity.name.function.macro.rules.rust"
       ],
       "settings": {
@@ -337,6 +344,16 @@
       "scope": "meta.definition.variable.name.java",
       "settings": {
         "foreground": "#c6cbcc"
+      }
+    },
+    {
+      "name": "kotlin keywords",
+      "scope": [
+        "keyword.other.kotlin",
+        "constant.language.kotlin"
+      ],
+      "settings": {
+        "foreground": "#d17b8d"
       }
     },
     {
@@ -1321,7 +1338,6 @@
       "name": "Go package name",
       "scope": [
         "entity.name.package.go",
-        "storage.type",
         "source.go"
       ],
       "settings": {
