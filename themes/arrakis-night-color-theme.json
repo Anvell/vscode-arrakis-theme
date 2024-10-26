@@ -6,6 +6,9 @@
     "builtinAttribute": {
       "foreground": "#b9b9b9"
     },
+    "boolean": {
+      "foreground": "#d17b8d"
+    },
     "decorator": {
       "foreground": "#b9b9b9"
     },
@@ -183,8 +186,11 @@
       }
     },
     {
-      "name": "support.constant.edge",
-      "scope": "support.constant.edge",
+      "name": "language constants",
+      "scope": [
+        "constant.language.bool",
+        "support.constant.edge"
+      ],
       "settings": {
         "foreground": "#d17b8d"
       }
