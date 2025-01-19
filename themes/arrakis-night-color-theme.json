@@ -1578,7 +1578,7 @@
     "activityBar.background": "#32302e",
     "activityBar.foreground": "#ffffff",
     "activityBar.inactiveForeground": "#ffffff66",
-    "activityBarBadge.background": "#1b7ea5",
+    "activityBarBadge.background": "#4f773b",
     "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#4d4d4d",
     "badge.foreground": "#ffffff",
