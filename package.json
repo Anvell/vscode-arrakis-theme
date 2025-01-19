@@ -4,7 +4,7 @@
   "description": "Harmonic and flow inducing color scheme which is gentle for your eyes.",
   "icon": "assets/logo.png",
   "publisher": "anvell",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.94.1"
