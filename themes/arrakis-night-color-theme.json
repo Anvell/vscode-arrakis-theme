@@ -1650,7 +1650,7 @@
     "editorGroupHeader.tabsBackground": "#2b2927",
     "editorGutter.addedBackground": "#9fe3b6",
     "editorGutter.background": "#2b2927",
-    "editorGutter.commentRangeForeground": "#c5c5c5",
+    "editorGutter.commentRangeForeground": "#5f5f5f",
     "editorGutter.deletedBackground": "#94151b",
     "editorGutter.foldingControlForeground": "#c5c5c5",
     "editorGutter.modifiedBackground": "#e3c89f",
