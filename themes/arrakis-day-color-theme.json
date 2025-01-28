@@ -71,6 +71,9 @@
 		"sideBar.border": "#bfbdb5",
 		"sideBar.foreground": "#403E3C",
 		"sideBarActivityBarTop.border": "#00000000",
+		"sideBarSectionHeader.background": "#faf0e6",
+		"sideBarSectionHeader.border": "#d9d1ca",
+		"sideBarSectionHeader.foreground": "#595654",
 		"sideBarTitle.foreground": "#403E3C",
 		// Scroll Bar
 		"scrollbar.shadow": "#CECDC3",
