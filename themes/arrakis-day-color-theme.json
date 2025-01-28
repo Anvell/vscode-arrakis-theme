@@ -61,15 +61,17 @@
 		"list.warningForeground": "#daaa01",
 		// Activity Bar
 		"activityBar.background": "#faf0e6",
+		"activityBar.border": "#bfbdb5",
 		"activityBar.foreground": "#403E3C",
 		"activityBarBadge.background": "#403E3C",
 		"activityBarBadge.foreground": "#faf0e6",
 		"activityBar.border": "#faf0e6",
 		// Side Bar
 		"sideBar.background": "#faf0e6",
+		"sideBar.border": "#bfbdb5",
 		"sideBar.foreground": "#403E3C",
+		"sideBarActivityBarTop.border": "#00000000",
 		"sideBarTitle.foreground": "#403E3C",
-		"sideBar.border": "#bab3ab",
 		// Scroll Bar
 		"scrollbar.shadow": "#CECDC3",
 		// Tabs
@@ -156,7 +158,7 @@
 		"statusBar.noFolderForeground": "#403E3C",
 		// Panel
 		"panel.background": "#faf0e6",
-		"panel.border": "#DAD8CE",
+		"panel.border": "#bfbdb5",
 		// Peek View
 		"peekView.border": "#DAD8CE",
 		"peekViewEditor.background": "#faf0e6",
