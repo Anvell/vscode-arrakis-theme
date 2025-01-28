@@ -196,6 +196,9 @@
 	"semanticTokenColors": {
 		"property": {
 			"foreground": "#1A8591"
+		},
+		"decorator": {
+			"foreground": "#585858",
 		}
 	},
 	"tokenColors": [
@@ -483,6 +486,13 @@
 			}
 		},
 		{
+			"name": "meta.attribute.rust",
+			"scope": "meta.attribute.rust",
+			"settings": {
+				"foreground": "#585858"
+			}
+		},
+		{
 			"name": "Meta Brace",
 			"scope": "meta.brace",
 			"settings": {
@@ -494,6 +504,13 @@
 			"scope": "meta.delimiter.period",
 			"settings": {
 				"foreground": "#585858"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#515151"
 			}
 		},
 		{
