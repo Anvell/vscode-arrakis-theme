@@ -19,17 +19,11 @@ Harmonic and flow inducing color scheme which is gentle for your eyes.
 <p align="center">
     <img src="assets/screenshot_01.png" width=800>
 </p>
-<p align="center">
-    <img src="assets/screenshot_02.png" width=800>
-</p>
 
 #### `02` Arrakis Day
 
 <p align="center">
-    <img src="assets/screenshot_03.png" width=800>
-</p>
-<p align="center">
-    <img src="assets/screenshot_04.png" width=800>
+    <img src="assets/screenshot_02.png" width=800>
 </p>
 
 ### Credits
