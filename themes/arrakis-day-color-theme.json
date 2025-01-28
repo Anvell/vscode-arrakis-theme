@@ -161,12 +161,15 @@
 		"extensionButton.prominentBackground": "#2AA298",
 		"extensionButton.prominentForeground": "#faf0e6",
 		// Status Bar
-		"statusBar.background": "#faf0e6",
 		"statusBar.border": "#dbd6d1",
+		"statusBar.background": "#faf0e6",
+		"statusBar.foreground": "#403E3C",
 		"statusBar.debuggingBackground": "#faf0e6",
 		"statusBar.debuggingForeground": "#403E3C",
-		"statusBar.foreground": "#403E3C",
-		"statusBarItem.errorBackground": "#D14D41",
+		"statusBarItem.errorBackground": "#faf0e6",
+		"statusBarItem.errorForeground": "#9a0000",
+		"statusBarItem.warningBackground": "#faf0e6",
+		"statusBarItem.warningForeground": "#9a5f00",
 		"statusBar.noFolderBackground": "#faf0e6",
 		"statusBar.noFolderForeground": "#403E3C",
 		// Panel
