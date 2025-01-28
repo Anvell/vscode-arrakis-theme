@@ -62,13 +62,13 @@
 		"list.errorForeground": "#c22626",
 		"list.warningForeground": "#ae8901",
 		// Activity Bar
-		"activityBar.background": "#faf0e6",
+		"activityBar.background": "#f5ebe1",
 		"activityBar.border": "#bfbdb5",
 		"activityBar.foreground": "#403E3C",
 		"activityBar.inactiveForeground": "#948d88",
 		"activityBarBadge.background": "#565350",
 		"activityBarBadge.foreground": "#faf0e6",
-		"activityBar.border": "#faf0e6",
+		"activityBarTop.inactiveForeground": "#948d88",
 		// Side Bar
 		"sideBar.background": "#faf0e6",
 		"sideBar.border": "#bfbdb5",
