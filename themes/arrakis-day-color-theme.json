@@ -10,10 +10,10 @@
 		"selection.background": "#6F6E69AD",
 		"descriptionForeground": "#403E3C",
 		"widget.shadow": "#DAD8CE",
-		"titleBar.activeBackground": "#faf0e6",
-		"titleBar.inactiveBackground": "#e1d8cf",
+		"titleBar.activeBackground": "#ebe0d7",
+		"titleBar.inactiveBackground": "#e0d7ce",
 		"titleBar.activeForeground": "#343331",
-		"titleBar.border": "#bab3ab",
+		"titleBar.border": "#bfbdb5",
 		// Notifications
 		"notifications.background": "#faf0e6",
 		"notifications.foreground": "#403E3C",
