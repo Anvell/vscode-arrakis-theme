@@ -24,7 +24,7 @@
 		"notificationCenterHeader.foreground": "#403E3C",
 		"notificationCenterHeader.background": "#faf0e6",
 		// Buttons
-		"button.background": "#2AA298",
+		"button.background": "#789c62",
 		"button.foreground": "#faf0e6",
 		// Dropdown
 		"dropdown.background": "#fef7ef",
@@ -43,8 +43,9 @@
 		"inputValidation.errorBackground": "#f76e6e",
 		"inputValidation.errorBorder": "#de3d3b",
 		// Badge
-		"badge.background": "#2AA298",
+		"badge.background": "#75716c",
 		"badge.foreground": "#faf0e6",
+		"editorInfo.foreground": "#789c62",
 		// Progress Bar
 		"progressBar.background": "#2AA298",
 		// List and Trees
@@ -63,7 +64,8 @@
 		"activityBar.background": "#faf0e6",
 		"activityBar.border": "#bfbdb5",
 		"activityBar.foreground": "#403E3C",
-		"activityBarBadge.background": "#403E3C",
+		"activityBar.inactiveForeground": "#948d88",
+		"activityBarBadge.background": "#565350",
 		"activityBarBadge.foreground": "#faf0e6",
 		"activityBar.border": "#faf0e6",
 		// Side Bar
