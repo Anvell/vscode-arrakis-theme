@@ -1640,7 +1640,7 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#b98182",
     "editorCodeLens.foreground": "#999999",
     "editorCursor.background": "#000000",
-    "editorCursor.foreground": "#aeafad",
+    "editorCursor.foreground": "#5cc1a3e6",
     "editorError.background": "#b73a3400",
     "editorError.border": "#ffffff00",
     "editorError.foreground": "#f48771",
